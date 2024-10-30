@@ -58,7 +58,7 @@ const ProductItem = React.memo(({
   >
     <View style={styles.imageContainer}>
       <Image
-        source={require("../../assets/p5.png")}
+        source={require("../../assets/p5.jpg")}
         style={styles.productImage}
         loading="lazy"
       />

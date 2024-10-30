@@ -10,7 +10,7 @@ const ProductCarousel = ({ images = [], onImagePress }) => {
   const slideRef = useRef(null);
 
   // If no images provided, use a default product image
-  const defaultImage = require("../../assets/p5.png");
+  const defaultImage = require("../../assets/p5.jpg");
   const displayImages = images.length > 0 ? images : Array(8).fill(defaultImage);
 
   useEffect(() => {
