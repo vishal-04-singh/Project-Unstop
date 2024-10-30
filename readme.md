@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Clinikally Logo](./logo.png)
+![Clinikally Logo](./Logo.png)
 
 A next-generation healthcare delivery platform built with React Native
 
@@ -18,10 +18,10 @@ Clinikally revolutionizes healthcare accessibility through its innovative React 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Avenster/clinikally-project.git
+git clone https://github.com/vishal-04-singh/Project-Unstop.git
 
 # Navigate to project directory
-cd clinikally-project
+cd Project-Unstop
 
 # Fresh installation
 rm -rf node_modules
@@ -88,12 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Support
-
-For support, email support@clinikally.com or join our [Discord community](https://discord.gg/clinikally).
-
----
-
-<div align="center">
-Made with ❤️ by the Clinikally Team
-</div>
