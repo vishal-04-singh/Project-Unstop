@@ -63,10 +63,10 @@ npm run android # For Android
 
 | Screen | Description |
 |--------|-------------|
-| ![Home](./ss1.png) | Home Screen with Featured Products |
-| ![Products](./ss2.png) | Product Catalog View |
-| ![Details](./ss3.png) | Detailed Product Information |
-| ![Pincode](./ss4.png) | Location Service Integration |
+| ![Home](./Home.png) | Home Screen with Featured Products |
+| ![Products](./Product.png) | Product Catalog View |
+| ![Details](./ProductDetail.png) | Detailed Product Information |
+| ![Pincode](./Pincode.png) | Location Service Integration |
 
 ## 📲 Try It Out
 
@@ -74,7 +74,7 @@ Experience Clinikally directly through Expo:
 
 <div align="center">
 
-[![Expo QR](./ss6.png)](https://expo.dev/preview/update?message=second&updateRuntimeVersion=1.0.0&createdAt=2024-10-30T13%3A56%3A30.740Z&slug=exp&projectId=975ca44f-17d4-4092-ae5e-81c3dc2470ff&group=19d7df8c-dedc-475f-bc52-0a4fa6b7fd9a)
+[![Expo QR](./qr.png)](https://expo.dev/preview/update?message=second&updateRuntimeVersion=1.0.0&createdAt=2024-10-30T13%3A56%3A30.740Z&slug=exp&projectId=975ca44f-17d4-4092-ae5e-81c3dc2470ff&group=19d7df8c-dedc-475f-bc52-0a4fa6b7fd9a)
 
 [Launch on Expo](https://expo.dev/preview/update?message=second&updateRuntimeVersion=1.0.0&createdAt=2024-10-30T13%3A56%3A30.740Z&slug=exp&projectId=975ca44f-17d4-4092-ae5e-81c3dc2470ff&group=19d7df8c-dedc-475f-bc52-0a4fa6b7fd9a)
 
