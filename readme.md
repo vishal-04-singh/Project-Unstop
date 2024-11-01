@@ -63,10 +63,10 @@ npm run android # For Android
 
 | Screen | Description |
 |--------|-------------|
-| ![Home](./Home.png) | Home Screen with Featured Products |
-| ![Products](./Product.png) | Product Catalog View |
-| ![Details](./ProductDetail.png) | Detailed Product Information |
-| ![Pincode](./Pincode.png) | Location Service Integration |
+| ![Home](./Home.PNG) | Home Screen with Featured Products |
+| ![Products](./Product.PNG) | Product Catalog View |
+| ![Details](./ProductDetail.PNG) | Detailed Product Information |
+| ![Pincode](./Pincode.PNG) | Location Service Integration |
 
 ## 📲 Try It Out
 
